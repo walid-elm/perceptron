@@ -95,7 +95,7 @@ np.ones([1,2])
 np.ones(2).shape[0]
 
 
-# In[ ]:
+
 
 
 
